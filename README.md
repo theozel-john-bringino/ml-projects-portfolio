@@ -1,1 +1,1 @@
-# # Hello, this folder contains all DS, and AI projects I have made and have decided to make public.
+Hello, this portfolio contains all projects that I have. I am still working on selecting the best projects to share here and I am also creating a few more in line with the recent changes in the industry.
