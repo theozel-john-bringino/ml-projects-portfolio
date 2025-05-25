@@ -28,6 +28,132 @@ No mixed data types found in all columns.
 [3] Capitalization Inconsistencies:
 --------------------------------------------------------------------------------------------------------------
 
+Column 'StockCode', has variations for '85123a': {'85123A', '85123a'}
+Column 'StockCode', has variations for '82494l': {'82494l', '82494L'}
+Column 'StockCode', has variations for '84997b': {'84997b', '84997B'}
+Column 'StockCode', has variations for '84997c': {'84997c', '84997C'}
+Column 'StockCode', has variations for '15056bl': {'15056BL', '15056bl'}
+Column 'StockCode', has variations for '15056n': {'15056n', '15056N'}
+Column 'StockCode', has variations for '85049a': {'85049a', '85049A'}
+Column 'StockCode', has variations for '85014b': {'85014B', '85014b'}
+Column 'StockCode', has variations for '85014a': {'85014a', '85014A'}
+Column 'StockCode', has variations for '84970s': {'84970s', '84970S'}
+Column 'StockCode', has variations for '84030e': {'84030e', '84030E'}
+Column 'StockCode', has variations for '85049e': {'85049E', '85049e'}
+Column 'StockCode', has variations for '84509a': {'84509A', '84509a'}
+Column 'StockCode', has variations for '84510a': {'84510A', '84510a'}
+Column 'StockCode', has variations for '47570b': {'47570b', '47570B'}
+Column 'StockCode', has variations for '85049c': {'85049C', '85049c'}
+Column 'StockCode', has variations for '85049d': {'85049d', '85049D'}
+Column 'StockCode', has variations for '85049g': {'85049g', '85049G'}
+Column 'StockCode', has variations for '84970l': {'84970l', '84970L'}
+Column 'StockCode', has variations for '72802c': {'72802C', '72802c'}
+Column 'StockCode', has variations for '85099f': {'85099F', '85099f'}
+Column 'StockCode', has variations for '85184c': {'85184C', '85184c'}
+Column 'StockCode', has variations for '85231b': {'85231B', '85231b'}
+Column 'StockCode', has variations for '85231g': {'85231g', '85231G'}
+Column 'StockCode', has variations for '48173c': {'48173c', '48173C'}
+Column 'StockCode', has variations for '84558a': {'84558a', '84558A'}
+Column 'StockCode', has variations for '84596e': {'84596E', '84596e'}
+Column 'StockCode', has variations for '84997d': {'84997D', '84997d'}
+Column 'StockCode', has variations for '85035b': {'85035b', '85035B'}
+Column 'StockCode', has variations for '85114b': {'85114b', '85114B'}
+Column 'StockCode', has variations for '85114c': {'85114c', '85114C'}
+Column 'StockCode', has variations for '47559b': {'47559B', '47559b'}
+Column 'StockCode', has variations for '47591b': {'47591B', '47591b'}
+Column 'StockCode', has variations for '47591d': {'47591D', '47591d'}
+Column 'StockCode', has variations for '47593b': {'47593b', '47593B'}
+Column 'StockCode', has variations for '72807a': {'72807A', '72807a'}
+Column 'StockCode', has variations for '72807b': {'72807b', '72807B'}
+Column 'StockCode', has variations for '72807c': {'72807C', '72807c'}
+Column 'StockCode', has variations for '82613b': {'82613B', '82613b'}
+Column 'StockCode', has variations for '82613c': {'82613C', '82613c'}
+Column 'StockCode', has variations for '84031a': {'84031a', '84031A'}
+Column 'StockCode', has variations for '84031b': {'84031b', '84031B'}
+Column 'StockCode', has variations for '85039a': {'85039A', '85039a'}
+Column 'StockCode', has variations for '85132a': {'85132a', '85132A'}
+Column 'StockCode', has variations for '84534b': {'84534B', '84534b'}
+Column 'StockCode', has variations for '84536a': {'84536A', '84536a'}
+Column 'StockCode', has variations for '84536b': {'84536b', '84536B'}
+Column 'StockCode', has variations for '18098c': {'18098c', '18098C'}
+Column 'StockCode', has variations for '79066k': {'79066K', '79066k'}
+Column 'StockCode', has variations for '84884a': {'84884A', '84884a'}
+Column 'StockCode', has variations for '51014c': {'51014c', '51014C'}
+Column 'StockCode', has variations for '84509b': {'84509b', '84509B'}
+Column 'StockCode', has variations for 'm': {'M', 'm'}
+Column 'StockCode', has variations for '15056p': {'15056p', '15056P'}
+Column 'StockCode', has variations for '84997a': {'84997A', '84997a'}
+Column 'StockCode', has variations for '46776b': {'46776b', '46776B'}
+Column 'StockCode', has variations for '47566b': {'47566b', '47566B'}
+Column 'StockCode', has variations for '47590b': {'47590B', '47590b'}
+Column 'StockCode', has variations for '84559a': {'84559a', '84559A'}
+Column 'StockCode', has variations for '84559b': {'84559b', '84559B'}
+Column 'StockCode', has variations for '85114a': {'85114a', '85114A'}
+Column 'StockCode', has variations for '85035c': {'85035C', '85035c'}
+Column 'StockCode', has variations for '85034a': {'85034a', '85034A'}
+Column 'StockCode', has variations for '85035a': {'85035a', '85035A'}
+Column 'StockCode', has variations for '84509g': {'84509G', '84509g'}
+Column 'StockCode', has variations for '85132b': {'85132b', '85132B'}
+Column 'StockCode', has variations for '85132c': {'85132C', '85132c'}
+Column 'StockCode', has variations for '15060b': {'15060B', '15060b'}
+Column 'StockCode', has variations for '72801c': {'72801c', '72801C'}
+Column 'StockCode', has variations for '72801d': {'72801D', '72801d'}
+Column 'StockCode', has variations for '85049b': {'85049b', '85049B'}
+Column 'StockCode', has variations for '72349b': {'72349b', '72349B'}
+Column 'StockCode', has variations for '84872a': {'84872a', '84872A'}
+Column 'StockCode', has variations for '84509c': {'84509C', '84509c'}
+Column 'StockCode', has variations for '85036b': {'85036b', '85036B'}
+Column 'StockCode', has variations for '72803b': {'72803B', '72803b'}
+Column 'StockCode', has variations for '84993a': {'84993A', '84993a'}
+Column 'StockCode', has variations for '72351a': {'72351A', '72351a'}
+Column 'StockCode', has variations for '82001s': {'82001S', '82001s'}
+Column 'StockCode', has variations for '84660c': {'84660C', '84660c'}
+Column 'StockCode', has variations for '84661b': {'84661B', '84661b'}
+Column 'StockCode', has variations for '72802a': {'72802A', '72802a'}
+Column 'StockCode', has variations for '85034b': {'85034B', '85034b'}
+Column 'StockCode', has variations for '84596g': {'84596G', '84596g'}
+Column 'StockCode', has variations for '85179a': {'85179A', '85179a'}
+Column 'StockCode', has variations for '84968a': {'84968A', '84968a'}
+Column 'StockCode', has variations for '84596l': {'84596l', '84596L'}
+Column 'StockCode', has variations for '84596f': {'84596f', '84596F'}
+Column 'StockCode', has variations for '84795b': {'84795b', '84795B'}
+Column 'StockCode', has variations for '46776e': {'46776e', '46776E'}
+Column 'StockCode', has variations for '46776a': {'46776a', '46776A'}
+Column 'StockCode', has variations for '84968f': {'84968f', '84968F'}
+Column 'StockCode', has variations for '84596b': {'84596B', '84596b'}
+Column 'StockCode', has variations for '85036a': {'85036A', '85036a'}
+Column 'StockCode', has variations for '84968e': {'84968e', '84968E'}
+Column 'StockCode', has variations for '84510c': {'84510C', '84510c'}
+Column 'StockCode', has variations for '90184c': {'90184C', '90184c'}
+Column 'StockCode', has variations for '84968d': {'84968D', '84968d'}
+Column 'StockCode', has variations for '35809a': {'35809a', '35809A'}
+Column 'StockCode', has variations for '84989a': {'84989a', '84989A'}
+Column 'StockCode', has variations for '85040a': {'85040A', '85040a'}
+Column 'StockCode', has variations for '84660b': {'84660b', '84660B'}
+Column 'StockCode', has variations for '46776f': {'46776f', '46776F'}
+Column 'StockCode', has variations for '84510e': {'84510E', '84510e'}
+Column 'StockCode', has variations for '84660a': {'84660a', '84660A'}
+Column 'StockCode', has variations for '84796a': {'84796A', '84796a'}
+Column 'StockCode', has variations for '82613a': {'82613a', '82613A'}
+Column 'StockCode', has variations for '85160a': {'85160A', '85160a'}
+Column 'StockCode', has variations for '47518f': {'47518F', '47518f'}
+Column 'StockCode', has variations for '84661a': {'84661A', '84661a'}
+Column 'StockCode', has variations for '90183c': {'90183c', '90183C'}
+Column 'StockCode', has variations for '84971l': {'84971l', '84971L'}
+Column 'Description', has variations for 'amazon': {'AMAZON', 'Amazon', 'amazon'}
+Column 'Description', has variations for 'check': {'check', 'CHECK'}
+Column 'Description', has variations for 'damages': {'Damages', 'damages'}
+Column 'Description', has variations for 'samples': {'SAMPLES', 'samples'}
+Column 'Description', has variations for 'dotcom sales': {'dotcom sales', 'Dotcom sales'}
+Column 'Description', has variations for 'found': {'Found', 'FOUND', 'found'}
+Column 'Description', has variations for 'dotcom': {'dotcom', 'Dotcom'}
+Column 'Description', has variations for 'adjustment': {'Adjustment', 'adjustment'}
+Column 'Description', has variations for 'damaged': {'DAMAGED', 'damaged', 'Damaged'}
+Column 'Description', has variations for 'missing': {'missing', 'Missing'}
+Column 'Description', has variations for 'crushed': {'Crushed', 'crushed'}
+Column 'Description', has variations for 'water damaged': {'water damaged', 'Water damaged'}
+Column 'Description', has variations for 'printing smudges/thrown away': {'Printing smudges/thrown away', 'printing smudges/thrown away'}
+Column 'Description', has variations for 'incorrect stock entry.': {'incorrect stock entry.', 'Incorrect stock entry.'}
 
 --------------------------------------------------------------------------------------------------------------
 [4] Unexpected/Unknown Values:
